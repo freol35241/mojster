@@ -1,5 +1,5 @@
 # mojster
-Schematics, BOM and documentation of our backard irrigation system.
+Schematics, BOM and documentation of our backyard irrigation system.
 
 ![](./irrigation-schematic.drawio.svg)
 
