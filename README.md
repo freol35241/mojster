@@ -63,6 +63,14 @@ Contains the following components:
   <img src="pics/20220320_145923.jpg" width="48%" />
   <img src="pics/20220320_145916.jpg" width="48%" /> 
 </p>
+<p float="center">
+  <img src="pics/20220625_165137.jpg" width="48%" />
+  <img src="pics/20220625_165238.jpg" width="48%" /> 
+</p>
+<p float="center">
+  <img src="pics/20220625_165311.jpg" width="48%" />
+  <img src="pics/20220625_165338.jpg" width="48%" /> 
+</p>
 
 
 ## License
