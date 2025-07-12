@@ -25,6 +25,9 @@ The irrigation system consists of the following main parts:
   https://www.styrahem.se/p/505/slang-8mm-3m<br>
   https://www.styrahem.se/p/506/slangkoppling-rak-8mm
 
+* **Float valve**<br>
+  https://www.amazon.se/m%C3%A4ssing-vattensensor-rostfritt-flott%C3%B6rboll-flott%C3%B6rventil/dp/B0DPD2QXW7/ref=sr_1_53?sr=8-53
+
 
 ### Pump house
 Contains the following components:
